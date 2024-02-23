@@ -1,0 +1,95 @@
+1.
+ab
+aaab
+abb
+ac
+bcd
+
+2.
+ab
+abb
+abbb
+aabbb
+acb
+abbcb
+
+3
+apple_banana
+python_java
+regex_example
+camelCase_snake_case
+not_a_match
+
+4
+Apple
+Python
+JavaScript
+CamelCase
+not_a_match
+HTML
+
+5
+apple
+abc
+alphabet
+cab
+not_a_match
+acb
+abab
+
+6
+Hello, world. This is an example with spaces and commas.
+Let's replace them with colons!
+Используя предоставленный код, программа заменит все пробелы, запятые и точки на двоеточия. Результат будет следующим:
+
+Hello:world:This:is:an:example:with:spaces:and:commas:
+Let's:replace:them:with:colons!
+Таким образом, все вхождения пробелов, запятых и точек были успешно заменены на двоеточия.
+
+7
+Snake Case: hello_world_example
+Camel Case: helloWorldExample
+
+8
+camelCaseString
+snake_case_example
+MixedCaseExample
+justlowercase
+ALLUPPERCASE
+
+Исходная строка: camelCaseString
+snake_case_example
+MixedCaseExample
+justlowercase
+ALLUPPERCASE
+Результат разделения на заглавные буквы:
+ ['camel', 'Case', 'String', 'snake', 'case', 'example', 'Mixed', 'Case', 'Example', 'justlowercase', 'ALL', 'UPPERCASE']
+
+ 9
+ firstName
+lastName
+emailAddress
+phoneNumber
+postalCode
+
+Исходный текст: firstName
+lastName
+emailAddress
+phoneNumber
+postalCode
+Текст с вставленными пробелами перед словами в Camel Case:
+first Name
+last Name
+email Address
+phone Number
+postal Code
+
+10
+userName
+registrationDate
+accountBalance
+customerID
+orderStatus
+
+Исходная строка (Camel Case): userName
+Результат преобразования в Snake Case: user_name
